@@ -30,3 +30,12 @@ cacheSolve <- function(x, ...) {
   inv
 }  
         ## Return a matrix that is the inverse of 'x'
+##     [,1] [,2]
+##[1,]    1    3
+##[2,]    2    4
+
+##Inverse
+##     [,1] [,2]
+##[1,]   -2  1.5
+##[2,]    1 -0.5
+
